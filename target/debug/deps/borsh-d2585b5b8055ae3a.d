@@ -1,0 +1,11 @@
+/Users/chendechun/learning/web3/sonala-test/target/debug/deps/libborsh-d2585b5b8055ae3a.rmeta: /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/lib.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/mod.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/hint.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema_helpers.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/mod.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/helpers.rs
+
+/Users/chendechun/learning/web3/sonala-test/target/debug/deps/borsh-d2585b5b8055ae3a.d: /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/lib.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/mod.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/hint.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema_helpers.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/mod.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/helpers.rs
+
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/lib.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/mod.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/hint.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema_helpers.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/mod.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/helpers.rs:

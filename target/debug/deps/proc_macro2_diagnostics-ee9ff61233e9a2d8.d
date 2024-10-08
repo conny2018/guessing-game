@@ -1,0 +1,10 @@
+/Users/chendechun/learning/web3/sonala-test/target/debug/deps/libproc_macro2_diagnostics-ee9ff61233e9a2d8.rmeta: /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/chendechun/learning/web3/sonala-test/target/debug/deps/libproc_macro2_diagnostics-ee9ff61233e9a2d8.rlib: /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/chendechun/learning/web3/sonala-test/target/debug/deps/proc_macro2_diagnostics-ee9ff61233e9a2d8.d: /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs:
+/Users/chendechun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs:
